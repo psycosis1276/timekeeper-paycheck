@@ -1,0 +1,2 @@
+{"name":"Timekeeper & Paycheck Projector","short_name":"Paycheck","start_url":"./","scope":"./","display":"standalone","background_color":"#f6f7f9","theme_color":"#1d6fe0",
+"icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
